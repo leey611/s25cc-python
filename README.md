@@ -3,11 +3,15 @@ Over the past two decades, the programming language Python has emerged as a freq
 
 [syllabus](https://docs.google.com/document/d/1HOBL_Plni3Va8ubqAMLC3b7CIFau3oJjRnD5VfYlwDM/edit?tab=t.0)
 ## Schedule
-### 1: Jan 27 - [Introduction](/module00-intro/README.md)
+### 1: Jan 27 - [Introduction](/week1-intro/README.md)
+
+## Office Hours
+by appointment (see email from the instructor)
 
 ## Evaluation
 - Active Participation / Attendance: 20%
 - Regular Assignments: 40%
 - Final: 40%
 
-    
+## Meaningful Participation and Attendance
+Class participation is an essential part of class and includes: keeping up with readings, assignments, projects, contributing meaningfully to class discussions, active participation in group work, and attending synchronous class sessions regularly and on time.
