@@ -40,7 +40,6 @@ git push origin main
 ## Supplemental Material
 - 📕 [Python basics](https://automatetheboringstuff.com/2e/chapter1/) by Al Sweigart
 - 💻 [Python basics: Expressions and strings](https://github.com/aparrish/rwet/blob/master/expressions-and-strings.ipynb) by Allison Parrish
-- 💻 [Python basics: Expressions and strings](https://github.com/aparrish/rwet/blob/master/expressions-and-strings.ipynb) by Allison Parrish
 - 💻 [Python basics: Lists and loops](https://github.com/aparrish/progdat/blob/main/lists.ipynb) by Allison Parrish
 - 🎥  [Python As Fast as Possible](https://www.youtube.com/watch?v=VchuKL44s6E) by Tech With Tim
 - 🎥  [Python Tutorial in 30 Minutes (Crash Course for Absolute Beginners)](https://www.youtube.com/watch?v=WEm3EUdicDg) by thenewboston
