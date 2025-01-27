@@ -1,7 +1,7 @@
 # Introduction
 Welcome to the class. Before we start making things, let's make sure we have a proper place to document our creation—using Github.
 
-- slides
+- [slides](https://docs.google.com/presentation/d/1uynzeYS75n5oEbNmDJ7ZASLhdfiTtQTrGek8ICIK-dE/edit?usp=sharing)
 <!-- ![git add, commit, and push for boarding an airplne as a meme](git_meme.jpg) -->
 <img src="git_meme.jpg" width="300" alt="git add, commit, and push as an airplane boarding meme">
 
