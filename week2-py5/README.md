@@ -1,7 +1,7 @@
 # py5
 Let's learn to draw with code using py5, a python-based creative codiing tool.
 
-- slides
+- [slides](https://docs.google.com/presentation/d/1caQcjfEUog5J1Ak5D6Seo0ZTVYwlFvoJx57sI341aek/edit?usp=sharing)
 
 ## Install
 - [Official install guide](https://py5coding.org/content/install.html)
