@@ -21,6 +21,7 @@ Let's learn to draw with code using py5, a python-based creative codiing tool.
 - 🎥 [James Schmitz: Creative Coding with py5, the Python version of Processing](https://www.youtube.com/watch?v=cI6Nby5UXqc)
 - 📕 [py5 Official Docs](https://py5coding.org/)
 - 📕 [drawing basic elements](https://py5coding.org/tutorials/intro_to_py5_and_python_02_drawing_2d_primitives.html)
+- 💻[Truchet tiles](https://py5coding.org/tutorials/intro_to_py5_and_python_08_randomness.html#truchet-tiles)
 - 📕 [storing data in py5 with variables](https://py5coding.org/tutorials/intro_to_py5_and_python_03_variables_and_data_types.html)
 - 📕 [conditional statements](https://py5coding.org/tutorials/intro_to_py5_and_python_06_conditional_statements.html)
 - 📕 [iteration](https://py5coding.org/tutorials/intro_to_py5_and_python_07_iteration_with_loops.html)
