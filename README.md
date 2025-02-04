@@ -4,6 +4,7 @@ Over the past two decades, the programming language Python has emerged as a freq
 [syllabus](https://docs.google.com/document/d/1HOBL_Plni3Va8ubqAMLC3b7CIFau3oJjRnD5VfYlwDM/edit?tab=t.0)
 ## Schedule
 ### 1: Jan 27 - [Introduction](/week1-intro/README.md)
+### 2: Feb 03 - [Py5](/week2-py5/README.md)
 
 ## Office Hours
 by appointment (see email from the instructor)
