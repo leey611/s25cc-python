@@ -1,5 +1,5 @@
 # Scroll art
-Your terminal is not just somewhere you type commands. Your terminal can be a new form of art--scroll art.  
+Your terminal is not just somewhere you type commands. Your terminal can be a new form of art--scroll art, using loops and print.  
 
 ## Core Material
 - [Install python](01_install_python.md)
@@ -25,11 +25,11 @@ Create a scroll art by modifying a piece you like at The Scroll Art Museum. Pick
 
 The goal of this assigment is to learn to leverage the good of *open-source arts*, and learn to read other people's code. **Reading code is an effective way to learn to code!!** It's also okay to start from the basic ones, and you don't need to understand every detail of the code to be able to create a fun piece. Messing with or breaking the code is encouraged as well.
 
-**~You must credit or reference the original artwork you are adapting~**
+**You must credit or reference the original artwork you are adapting**
 
-**~You must credit or reference the original artwork you are adapting~**
+**You must credit or reference the original artwork you are adapting**
 
-**~You must credit or reference the original artwork you are adapting~**
+**You must credit or reference the original artwork you are adapting**
 
 (If you like, you are also welcome to make your own scroll art from scratch or utilize the techniques you learn from the site.)
 
