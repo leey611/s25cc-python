@@ -23,7 +23,7 @@ Create a scroll art by modifying a piece you like at The Scroll Art Museum ([sit
 - commenting out or removing a block of code and see the change
 - modifying the conditionals
 
-The goal of this assigment is to learn to leverage the good of *open-source arts*, and learn to read other people's code. **Reading code is an effective way to learn to code!!** It's also okay to start from the basic ones, and you don't need to understand every detail of the code to be able to create a fun piece. Messing with or breaking the code is encouraged as well.
+The goal of this assingment is to learn to leverage the good of *open-source arts*, and learn to read other people's code. **Reading code is an effective way to learn to code!!** It's also okay to start from the basic ones, and you don't need to understand every detail of the code to be able to create a fun piece. Messing with or breaking the code is encouraged as well.
 
 **You must credit or reference the original artwork you are adapting**
 
@@ -33,7 +33,7 @@ The goal of this assigment is to learn to leverage the good of *open-source arts
 
 (If you like, you are also welcome to make your own scroll art from scratch or utilize the techniques you learn from the site.)
 
-Take screenshots, images of your output, submit along with your code and README to Canvas and our [course wiki](https://github.com/leey611/s25cc-python/wiki).
+Take screenshots, images, gifs of your output, submit along with your code and README to Canvas and our [course wiki](https://github.com/leey611/s25cc-python/wiki).
 
 ### Advice for making scroll art by Al Sweigart
 - Keep it short. Under 50 lines of code.
