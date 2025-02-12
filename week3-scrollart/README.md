@@ -16,7 +16,7 @@ Your terminal is not just somewhere you type commands. Your terminal can be a ne
 - [Frums - Credits EX: Original animation in command line](https://www.youtube.com/watch?v=o3cKQzrtFgQ) by plaaosert
 
 ## Assignment
-Create a scroll art by modifying a piece you like at The Scroll Art Museum. Pick one piece that interests you, read its source code, and play around with it by:
+Create a scroll art by modifying a piece you like at The Scroll Art Museum ([site](https://scrollart.org/), [python code](https://github.com/asweigart/scrollart/tree/main/python)). Pick one piece that interests you, read its source code, and play around with it by:
 
 - changing the variables
 - editing the characters
