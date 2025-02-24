@@ -5,7 +5,9 @@ Over the past two decades, the programming language Python has emerged as a freq
 ## Schedule
 ### 1: Jan 27 - [Introduction](/week1-intro/README.md)
 ### 2: Feb 03 - [Py5](/week2-py5/README.md)
-### 3: Feb 10 - Scroll art
+### 3: Feb 10 - [Scrollart](/week3-scrollart/README.md)
+### 4: Feb 17 - No class (President Day)
+### 5: Feb 24 - [Turtle](/week5-turtle/README.md)
 
 ## Office Hours
 by appointment (see email from the instructor)
