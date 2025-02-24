@@ -167,6 +167,16 @@ pendown()
 circle(100)
 ```
 
+## Other notes:
+- [`setheading(to_angle)`](https://docs.python.org/3/library/turtle.html#turtle.setheading): set or turn the turtle cursor to an angle.
+
+| standard mode | logo mode     |
+| ------------- | ------------- |
+| 0 - east      | 0 - north     |
+| 90 - north    | 90 - east     |
+| 180 - west    | 180 - south   |
+| 270 - south   | 270 - west    |
+
 ## Use object-oriented turtle graphics
 You can use `turtle` in an [object-oriented programming (OOP)](https://www.youtube.com/watch?v=YcbcfkLzgvs) style. By this way, you can have multiple turtles drawing on the screen!
 
