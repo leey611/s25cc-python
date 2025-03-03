@@ -1,6 +1,11 @@
 # What is Object-Oriented Programming (OOP)?
 OOP is a programming style that enables you to organize your code and reuse it with `class` and `objects`.
 
+## Why Object-Oriented Programming (OOP)?
+So far we have been controlling the main character's behaviors using different functions, such as `yellow_handle_movement()` and `handle_bullets()`. This works well when we are controlling one thing, but what if we want to create multiple enemies in the game? It doesn't make sense to create functions to handle each enemy. 
+
+Therefore, we need a way to create multiple objects that represent our enemies, and to be able to control each enemy object in an organized, readable style.
+
 ## Classes
 [reference](https://www.w3schools.com/python/python_classes.asp)
 
