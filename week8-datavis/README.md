@@ -1,5 +1,5 @@
 # Data Visualization
-Python is one of the easiest programming language to work with data and make data visualization. Let's learn the common Python tools to work wtih data, such as [matplotlib](https://matplotlib.org/stable/plot_types/index.html), .
+Python is one of the easiest programming language to work with data and make data visualization. Let's learn the common Python tools to work wtih data, such as [matplotlib](https://matplotlib.org/stable/plot_types/index.html), [seaborn](https://seaborn.pydata.org/examples/index.html), and [plotly](https://plotly.com/python/).
 
 ## Core Material
 - [`matplotlib` basics](/week8-datavis/01_basics_matplotlib.md)
