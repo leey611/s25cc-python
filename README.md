@@ -9,6 +9,8 @@ Over the past two decades, the programming language Python has emerged as a freq
 ### 4: Feb 17 - No class (President Day)
 ### 5: Feb 24 - [Turtle](/week5-turtle/README.md)
 ### 6: Mar 03 - [Pygame](/week6-pygame/README.md)
+### 7: Mar 10 - No class (Spring Break)
+### 8: Mar 17 - [Data Visualization](/week8-datavis/README.md)
 
 ## Office Hours
 by appointment (see email from the instructor)
