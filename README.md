@@ -11,6 +11,7 @@ Over the past two decades, the programming language Python has emerged as a freq
 ### 6: Mar 03 - [Pygame](/week6-pygame/README.md)
 ### 7: Mar 10 - No class (Spring Break)
 ### 8: Mar 17 - [Data Visualization](/week8-datavis/README.md)
+### 9: Mar 24 - [Web Scraping](/week9-webscraping/README.md)
 
 ## Office Hours
 by appointment (see email from the instructor)
