@@ -14,4 +14,4 @@ We browse websites every day. We copy text, download images, and save informatio
 - 🎥 [Am I going to jail for web scraping](https://www.youtube.com/watch?v=8GhFmQPZAlo) by Fireship
 
 ## Assignment
-Practice web scraping on a site that you are interested in or contains information and ata for your research. Can be another wikipedia page or a website you like. Scrape paragraphs, headings, or images etc. Document your code, process, or any errors you encountered. Save your scraped results to CSVs or screenshot your scraped image folder. Submit along with your code and README to Canvas and our [course wiki](https://github.com/leey611/s25cc-python/wiki).
+Practice web scraping on a site that you are interested in or contains information and data for your research. Can be another wikipedia page or a website you like. Scrape paragraphs, headings, or images etc. Document your code, process, or any errors you encountered. Save your scraped results to CSVs or screenshot your scraped image folder. Submit along with your code and README to Canvas and our [course wiki](https://github.com/leey611/s25cc-python/wiki).
