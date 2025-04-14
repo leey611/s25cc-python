@@ -13,6 +13,8 @@ Over the past two decades, the programming language Python has emerged as a freq
 ### 8: Mar 17 - [Data Visualization](/week8-datavis/README.md)
 ### 9: Mar 24 - [Web Scraping](/week9-webscraping/README.md)
 ### 10: Mar 31 - [Using LLMs](/week10-using-llms/README.md)
+### 11: Apr 07 - 1 on 1s / Final proposals
+### 12: Apr 14 - [GUI with Tkinter](/week12-gui-tkinter/README.md)
 
 ## Office Hours
 by appointment (see email from the instructor)
