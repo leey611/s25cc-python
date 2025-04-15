@@ -14,8 +14,9 @@ We can not only create and run web applications with Python, but also build desk
 - [Graphical User Interfaces: Crash Course Computer Science](https://www.youtube.com/watch?v=XIGSJshYb90) by CrashCourse
 
 ## Assignment
-<u>Option 1:</u>
+Option 1:
 Recreate an user interface layout (functionalities are optional) you encounter frequently, such as your mobile apps layout, a widget, a form, etc.
-<u>Option 2:</u>
+
+Option 2:
 Come up with a bad UI or UX that doesn't make sense (feel free to expand from in-class examples). Create it with tkinter.
 
