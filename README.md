@@ -16,6 +16,7 @@ Over the past two decades, the programming language Python has emerged as a freq
 ### 11: Apr 07 - 1 on 1s / Final proposals
 ### 12: Apr 14 - [GUI with Tkinter](/week12-gui-tkinter/README.md)
 ### 13: Apr 21 - [OpenCV](/week13-opencv/README.md)
+### 14: Apr 28 - [Algorave / Live Coding](/week14-algorave/README.md)
 
 ## Office Hours
 by appointment (see email from the instructor)
